@@ -1,4 +1,4 @@
-# NewsBaba News APP
+# NewsBaba ReactJS News APP
 
 NewsBaba is a news app which is used to get daily news for you.
 
